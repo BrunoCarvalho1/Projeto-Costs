@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "id": "d680",
+      "name": "teste visual",
+      "budget": "10200",
+      "category": {
+        "id": "3"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "bateri",
+          "cost": "100",
+          "description": "13123",
+          "id": "b660ebd9-8725-4dda-b6c9-1aab04cb7cfd"
+        },
+        {
+          "name": "Contratar dev",
+          "cost": "200",
+          "description": "mandar email",
+          "id": "c2cc272d-d479-449e-9797-a50c0c0acc90"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
