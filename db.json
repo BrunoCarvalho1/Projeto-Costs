@@ -1,25 +1,19 @@
 {
   "projects": [
     {
-      "id": "d680",
-      "name": "teste visual",
-      "budget": "10200",
+      "id": "1c11",
+      "name": "Projeto Web",
+      "budget": "10000",
       "category": {
-        "id": "3"
+        "id": "2"
       },
-      "cost": 1000,
+      "cost": 2000,
       "services": [
         {
-          "name": "bateri",
-          "cost": "100",
-          "description": "13123",
-          "id": "b660ebd9-8725-4dda-b6c9-1aab04cb7cfd"
-        },
-        {
-          "name": "Contratar dev",
-          "cost": "200",
-          "description": "mandar email",
-          "id": "c2cc272d-d479-449e-9797-a50c0c0acc90"
+          "name": "Primeira pagina web",
+          "cost": "2000",
+          "description": "pagina de login",
+          "id": "275e67ac-fc61-44be-b6eb-3c4c2d9f386f"
         }
       ]
     }
